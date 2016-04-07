@@ -10,6 +10,9 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Enemies.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{CEF6776D-B670-4C89-823A-5FC01365CEDB}</ProjectGuid>
     <RootNamespace>SuperMarioSanAndreas</RootNamespace>
