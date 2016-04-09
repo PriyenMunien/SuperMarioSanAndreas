@@ -12,6 +12,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Enemies.cpp" />
+    <ClCompile Include="game.cpp" />
     <ClCompile Include="world.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
