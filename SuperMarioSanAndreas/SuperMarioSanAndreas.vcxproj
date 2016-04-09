@@ -12,6 +12,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Enemies.cpp" />
+    <ClCompile Include="world.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{CEF6776D-B670-4C89-823A-5FC01365CEDB}</ProjectGuid>
