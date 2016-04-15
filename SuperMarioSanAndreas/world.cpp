@@ -4,7 +4,10 @@
 using namespace std;
 #define length 800
 #define width 600
- int world(){
+ int main(){
+
+	 al_init();
+
 	ALLEGRO_DISPLAY *display;
 	al_set_new_display_flags(ALLEGRO_WINDOWED);
 	display = al_create_display(length, width);

@@ -12,7 +12,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Enemies.cpp" />
-    <ClCompile Include="game.cpp" />
     <ClCompile Include="SuperMario.cpp" />
     <ClCompile Include="world.cpp" />
   </ItemGroup>
