@@ -68,6 +68,7 @@ public:
 				*sourceX = 0;
 
 			al_draw_bitmap_region(en, *sourceX, 0, 32, 32, x, y, NULL);		//draws image
+			al_rest(10.0);
 
 		}
 	}
